@@ -2,7 +2,7 @@
 	display: none;
 }
 
-#readFileContents, #cameraResult, #contactsResult, #viewTableContents {
+#readFileContents, #cameraResult, #contactsResult {
 	text-align: center;
 }
 
